@@ -1,4 +1,5 @@
 import sqlite3
+from flask import g
 from flask import Flask
 from flask.templating import render_template
 
